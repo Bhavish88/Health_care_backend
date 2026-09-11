@@ -1,3 +1,4 @@
+
 # Healthcare Backend API
 
 A Django REST Framework backend application built for a healthcare system. It provides endpoints for user authentication using JWT, patient management, doctor management, and patient-doctor mappings with PostgreSQL database storage.
@@ -224,3 +225,4 @@ To run the automated test suite:
 python manage.py test
 ```
 All 25 test cases verify authentication, permissions, CRUD functionality, user isolation, and mapping constraints.
+
